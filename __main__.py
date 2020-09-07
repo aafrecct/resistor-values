@@ -8,7 +8,7 @@ help = """
 Returns the value of a resistor given the color of its stripes.
 
 Usage:
-    resistor -[Options] colors
+    resistor -[Options] colors-abreviated
     or
     resistor -[Options] color0 color1 color2 color3 [color4] [color5]
 
